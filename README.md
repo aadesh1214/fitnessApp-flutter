@@ -1,15 +1,21 @@
 <p align="center"><img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png" width="250" height="250"/></p>
 
 
- <h2 align=center>Fitness_App</h2>
 
-<p aligh="center">`Flutter``Dart`</p>
+<h2 align=center>Fitness_App   </h2>
+ 
+
+
+ 
+
 
 ## Running the app
   Open the project in Visual Studio code.
   
     - Build the app
     - Run the app (Simulator/ Real Device )
+    
+   `Flutter` `Dart`
 
 ## About the app
 
