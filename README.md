@@ -1,3 +1,4 @@
+<img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png"/>
 # fitness_app
 
 A fitness app is made by flutter framework.
