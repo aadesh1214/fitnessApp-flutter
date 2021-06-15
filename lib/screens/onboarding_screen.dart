@@ -27,7 +27,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     ),
     PageViewModel(
       title: "Leap",
-      body: "You can leap and if you don't giveup...",
+      body: "You can leap ...",
       image: Center(child: Image.asset("assets/screen2.png", height: 175.0)),
       decoration: const PageDecoration(
         pageColor: Color(0xFF192A56),
@@ -43,7 +43,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     ),
     PageViewModel(
       title: "Lead",
-      body: "You can become perfect and can lead to others...",
+      body: "You can lead...",
       image: Center(child: Image.asset("assets/screen3.png", height: 175.0)),
       decoration: const PageDecoration(
         pageColor: Color(0xFF192A56),
