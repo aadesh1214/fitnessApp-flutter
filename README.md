@@ -22,3 +22,5 @@ App is targeted to people of any age:
 ## ScreenShots
 App Intro                  |Display Info               |Exercise  Info
 :-------------------------:|:-------------------------:|:-------------------------:
+https://github.com/aadesh1214/fitnessApp-flutter/blob/master/images/App%20Info.jpeg | https://github.com/aadesh1214/fitnessApp-flutter/blob/master/images/display%20Info.jpeg |
+https://github.com/aadesh1214/fitnessApp-flutter/blob/master/images/exercise%20info.jpeg
