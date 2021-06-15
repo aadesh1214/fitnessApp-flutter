@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png" width="250" height="250"/></p>
 
 
- <h2 align=center>Fitness_app</h2>
+ <h2 align=center>Fitness_App</h2>
 
-A fitness app is made by flutter framework.
+<p aligh="center">`Flutter``Dart`</p>
 
 ## Running the app
   Open the project in Visual Studio code.
