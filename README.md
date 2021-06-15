@@ -1,4 +1,4 @@
-<center><img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png" width="250" height="250"/></center>
+<p align="center"><img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png" width="250" height="250"/></p>
 
 
 # fitness_app
