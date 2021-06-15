@@ -1,16 +1,24 @@
 # fitness_app
 
-A new Flutter project.
+A fitness app is made by flutter framework.
 
-## Getting Started
+## Running the app
+  Open the project in Visual Studio code.
+  
+    - Build the app
+    - Run the app (Simulator/ Real Device )
 
-This project is a starting point for a Flutter application.
+## About the app
 
-A few resources to get you started if this is your first Flutter project:
+A fitness app is an application that can be downloaded on any mobile device and used anywhere to get fit.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App is targeted to people of any age:
+  
+    o Who wants to fit their body
+    o 50+ exercise is their
+    o for different muscules different exercise is their
+    o Audio is also their when ever you completed the exercise it will automatically plays 
+    
+## ScreenShots
+App Intro                  |Display Info               |Exercise  Info
+:-------------------------:|:-------------------------:|:-------------------------:
