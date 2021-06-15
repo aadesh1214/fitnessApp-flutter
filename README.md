@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/aadesh1214/fitnessApp-flutter/blob/master/assets/logo.png" width="250" height="250"/></p>
 
 
-# fitness_app
+ <h2 align=center>Fitness_app</h2>
 
 A fitness app is made by flutter framework.
 
